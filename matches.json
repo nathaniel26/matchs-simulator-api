@@ -3,7 +3,7 @@
       "descricao": "Eliminatorias Copa 2022",
       "local": {
         "nome": "Maracana",
-        "imagem": "TODO"
+        "imagem": "https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
       },
       "mandante": {
         "nome": "Brasil",
@@ -22,7 +22,7 @@
       "descricao": "Eliminatorias Copa 2022",
       "local": {
         "nome": "Maracana",
-        "imagem": "TODO"
+        "imagem": "https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
       },
       "mandante": {
         "nome": "Uruguay",
@@ -41,7 +41,7 @@
       "descricao": "Eliminatorias Copa 2022",
       "local": {
         "nome": "Maracana",
-        "imagem": "TODO"
+        "imagem": "https://maracana-web-prod-bkt.s3.amazonaws.com/images/posts/9-nota-oficial-complexo-maracana.png"
       },
       "mandante": {
         "nome": "Brasil",
